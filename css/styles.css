@@ -168,7 +168,7 @@ main{
     color: var(--cinza-secundaria)
 }
 
-@media (min-width: 450px) and (max-width: 767px){
+@media (max-width: 767px){
     .container{
         grid-template-columns: 100%;
     }
@@ -203,7 +203,7 @@ main{
         margin: 5em 0;
     }
     .dispositivos__titulo{
-        font-size: 40px;
+        font-size: 35px;
     }
 
     .rodape__lista{
