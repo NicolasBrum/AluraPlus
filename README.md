@@ -14,5 +14,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%2520?style=for-the-badge&logoColor=violet">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%2520?style=for-the-badge&logoColor=blue&color=blue">
 </div>
-
+<hr>
+<h2>Link do site:</h2>
+<a href="https://nicolasbrum.github.io/AluraPlus/">Alura-Plus</a>
 
